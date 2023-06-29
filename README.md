@@ -6,7 +6,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek-panchal&label=Profile%20views&color=0e75b6&style=flat" alt="Shaurya Singh" /> </p>
+
 
 - 📫 How to reach me **shauryarana023@gmail.com**
 
