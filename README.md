@@ -11,9 +11,10 @@
 - 📫 How to reach me **shauryarana023@gmail.com**
 
 - 📄 Know about my experiences
-  <p/>🎓 Growfi Solutions · Flutter Intern  · Jan 2023 - Present 
-  <p/>🎓 Flint Energy     · React Intern    · Sep 2021 - Oct 2021
-  <p/>🎓 30 Days Coding   · React Intern    · Jan 2021 - Jun 2021 
+  <p/>🎓 Growfi Solutions · SDE Intern    · Jan 2023 - Jul 2023 
+  <p/>🎓 30 Days Coding   · SDE Intern    · Jan 2021 - Jul 2021 
+  <p/>🎓 Desi Qna         · SDE Intern    · Jan 2022 - Mar 2022 
+  <p/>🎓 Flint Energy     · React Intern  · Sep 2021 - Nov 2021
   
 
 <h3 align="left">Connect with me:</h3>
